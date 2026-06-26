@@ -1,0 +1,6 @@
+{
+  "name": "Fixio Home Maintenance",
+  "description": "Premium Home Maintenance & Renovation Services Across Dubai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
