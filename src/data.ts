@@ -160,7 +160,7 @@ export const PROJECTS: ProjectItem[] = [
     title: 'Full Apartment Jotun Silk Stucco & Contrast Accent Painting',
     category: 'painting',
     // We can also reference our painting_work image
-    imageUrl: '/src/assets/images/painting_work_1781960268492.jpg',
+    imageUrl: '/images/painting_work_1781960268492.jpg',
     location: 'Downtown Dubai Apartment'
   },
   {
@@ -182,14 +182,14 @@ export const PROJECTS: ProjectItem[] = [
     title: 'Structural Copper Drain Installation & Underground High-Pressure Leak Stop',
     category: 'plumbing',
     // We can reference our plumbing_work image
-    imageUrl: '/src/assets/images/plumbing_work_1781960251877.jpg',
+    imageUrl: '/images/plumbing_work_1781960251877.jpg',
     location: 'Dubai Hills Villa'
   },
   {
     id: 'proj-7',
     title: 'Complete Multi-Zone AC Thermostat Smart Home Setup',
     category: 'ac',
-    imageUrl: '/src/assets/images/ac_work_1781960285432.jpg',
+    imageUrl: '/images/ac_work_1781960285432.jpg',
     location: 'Dubai Hills Estate'
   },
   {

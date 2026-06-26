@@ -28,7 +28,7 @@ export default function CompanyLogo({
     return (
       <div className={`inline-flex items-center bg-white p-1.5 px-3 rounded-xl border border-slate-200/10 shadow-sm select-none ${className}`}>
         <img
-          src="/src/assets/images/fixio_logo_1782456605771.jpg"
+          src="/images/fixio_logo_1782456605771.jpg"
           alt="FIXIO Logo"
           className={`${selectedSizeClass} mix-blend-multiply`}
           referrerPolicy="no-referrer"
@@ -41,7 +41,7 @@ export default function CompanyLogo({
   return (
     <div className={`inline-flex items-center select-none ${className}`}>
       <img
-        src="/src/assets/images/fixio_logo_1782456605771.jpg"
+        src="/images/fixio_logo_1782456605771.jpg"
         alt="FIXIO Logo"
         className={`${selectedSizeClass}`}
         referrerPolicy="no-referrer"
