@@ -29,42 +29,42 @@ export default function ServicesSection({ onSelectService }: ServicesSectionProp
       id: 'ac',
       displayTitle: 'AC SERVICES',
       bookingTitle: 'AC SERVICES',
-      imageUrl: '/src/assets/images/ac_indian_worker_1782468674434.jpg',
+      imageUrl: '/images/ac_indian_worker_1782468674434.jpg',
       bulletText: 'Installation, repair, and chemical coil/filter cleaning of all AC units.'
     },
     {
       id: 'plumbing',
       displayTitle: 'PLUMBING SERVICES',
       bookingTitle: 'PLUMBING',
-      imageUrl: '/src/assets/images/plumbing_indian_worker_1782468717739.jpg',
+      imageUrl: '/images/plumbing_indian_worker_1782468717739.jpg',
       bulletText: 'Leak repairs, pipe fittings, water heater installations and drain unclogging.'
     },
     {
       id: 'electrical',
       displayTitle: 'ELECTRICAL SERVICES',
       bookingTitle: 'ELECTRICAL',
-      imageUrl: '/src/assets/images/electrical_indian_worker_1782468687655.jpg',
+      imageUrl: '/images/electrical_indian_worker_1782468687655.jpg',
       bulletText: 'Circuit troubleshooting, smart light fittings, wiring, and DB board solutions.'
     },
     {
       id: 'painting',
       displayTitle: 'PROFESSIONAL PAINTING',
       bookingTitle: 'PAINTING',
-      imageUrl: '/src/assets/images/painting_work_1781960268492.jpg',
+      imageUrl: '/images/painting_work_1781960268492.jpg',
       bulletText: 'Flawless interior/exterior wall painting with premium materials and custom finishes.'
     },
     {
       id: 'handyman',
       displayTitle: 'HANDYMAN SERVICES',
       bookingTitle: 'HANDYMAN',
-      imageUrl: '/src/assets/images/handyman_indian_worker_1782468700697.jpg',
+      imageUrl: '/images/handyman_indian_worker_1782468700697.jpg',
       bulletText: 'Aesthetic TV mounting, customized furniture assembly, curtains, and repairs.'
     },
     {
       id: 'renovation',
       displayTitle: 'LUXURY RENOVATIONS',
       bookingTitle: 'RENOVATION',
-      imageUrl: '/src/assets/images/renovation_work_service_1781963082831.jpg',
+      imageUrl: '/images/renovation_work_service_1781963082831.jpg',
       bulletText: 'Bespoke design, high-end kitchen, bathroom, and complete luxury villa renovations.'
     }
   ];

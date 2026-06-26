@@ -40,7 +40,7 @@ export default function AboutSection({ onSelectService }: AboutSectionProps) {
               className="relative rounded-2xl overflow-hidden aspect-[4/5] border border-slate-100 shadow-lg"
             >
               <img 
-                src="/src/assets/images/plumbing_indian_worker_1782468717739.jpg" 
+                src="/images/plumbing_indian_worker_1782468717739.jpg" 
                 alt="Fixio high-quality plumbing sink piping repair" 
                 className="w-full h-full object-cover select-none"
                 referrerPolicy="no-referrer"
@@ -69,7 +69,7 @@ export default function AboutSection({ onSelectService }: AboutSectionProps) {
                 className="rounded-2xl overflow-hidden aspect-[4/3] border border-slate-100 shadow-sm"
               >
                 <img 
-                  src="/src/assets/images/ac_indian_worker_1782468674434.jpg" 
+                  src="/images/ac_indian_worker_1782468674434.jpg" 
                   alt="Fixio certified split AC diagnostics" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
@@ -85,7 +85,7 @@ export default function AboutSection({ onSelectService }: AboutSectionProps) {
                 className="rounded-2xl overflow-hidden aspect-[4/3] border border-slate-100 shadow-sm"
               >
                 <img 
-                  src="/src/assets/images/painting_work_1781960268492.jpg" 
+                  src="/images/painting_work_1781960268492.jpg" 
                   alt="Fixio deluxe wall painting roll out" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"

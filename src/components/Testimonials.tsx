@@ -26,7 +26,7 @@ export default function Testimonials() {
           {/* Left Technician Picture replica */}
           <div className="lg:col-span-3 hidden lg:block h-full min-h-[440px] relative select-none">
             <img
-              src="/src/assets/images/testimonial_indian_technician_1782468661323.jpg"
+              src="/images/testimonial_indian_technician_1782468661323.jpg"
               alt="Fixio smiling professional Indian technician"
               className="absolute bottom-0 left-0 w-full h-[120%] object-cover object-bottom rounded-t-2xl select-none pointer-events-none"
               referrerPolicy="no-referrer"

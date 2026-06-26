@@ -113,7 +113,7 @@ export default function Hero({ onSubmitBooking, selectedServicePreset, setSelect
           initial={{ opacity: 0, scale: 1.06 }}
           animate={{ opacity: 0.82, scale: 1 }}
           transition={{ duration: 1.6, ease: "easeOut" }}
-          src="/src/assets/images/hero_bg_1781962213766.jpg" 
+          src="/images/hero_bg_1781962213766.jpg" 
           alt="Fixio Premium Home Maintenance Dubai background with Burj Khalifa and certified technician" 
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
